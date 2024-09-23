@@ -1,3 +1,5 @@
+/* Main Body Styles */
+
 body {
     background: url("../images/mtg_colors.jpg")
     no-repeat
@@ -51,6 +53,8 @@ video {
     margin: 0 auto;
 }
 
+/* Class Styles */
+
 .center {
     text-align: center;
 }
@@ -93,6 +97,8 @@ video {
 .card-link {
     display: none;
 }
+
+/* Media query Styles */
 
 @media (max-width: 600px) {
     header {
