@@ -6,3 +6,4 @@ Commit 5 : added aria labels to the nav content
 Commit 6 : reformatted code to minimise empty space
 Commit 7 : added meta data in the description, keywords and author sections
 Commit 8 : added comment labels to HTML and CSS to explain structure
+Commit 9 : changed file structure to standard practice
