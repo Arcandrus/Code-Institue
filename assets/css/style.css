@@ -16,7 +16,7 @@ header {
     text-align: center;
     background-color: black;
     color: white;
-    width: 100%;
+    width: 95%;
     padding: 20px;
     position: sticky;
     top: 0;
@@ -87,7 +87,7 @@ video {
 
 .wrapper {
     text-align: left;
-    width: 60%;
+    width: 70%;
     margin-left: 10%;
     margin-right: 10%;
     background: rgba(255, 238, 153, 0.8);
