@@ -93,7 +93,7 @@ On smaller screens, the picture is replaced with a link to each picture. This wa
 
 ## Deployment
 The site has been deployed using [GitPages](https://pages.github.com) in the following way.
-+ In the Github repository, the Stetting tab.
++ In the Github repository, the Setting tab.
 + Under General, navigate to Code and Automation and select 'Pages'.
 + In the Build and Deployment section for Source, select 'Deploy from a branch' from the drop-down list.
 + For Branch, select 'main' from the drop-down list and Save.
