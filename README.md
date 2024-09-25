@@ -5,6 +5,10 @@
 ## Table of Contents
 
 [Live Demo](#demo)
+[UX](#ux)
+[Mission Statement](#mission-statement)
+[Strategy](#strategy)
+[Scope](#scope)
 
 ## Demo
 A live demo to the website can be found [here](https://arcandrus.github.io/code-institute/)
@@ -12,7 +16,7 @@ A live demo to the website can be found [here](https://arcandrus.github.io/code-
 ## UX
 This website is designed for beginners interested in learning the basics of the card game Magic: the Gathering (MTG). The use experience is geared towards explaining how to get started playing MTG.
 
-## User stories
+## Mission Statement
 My goal is to create a simple, easy to follow explaination of the cards types and how to play MTG. The points I considered with the user in mind are as follows:
 
 + As a user, I want to understand the purpose of this website quickly and easily.
