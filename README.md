@@ -15,6 +15,7 @@
 + [Technologies](#technologies)
 + [Features](#features)
 + [Deployment](#deployment)
++ [Validator Testing](#validator-testing)
 + [Bugs Fixes and Changes](#bug-fixes-and-changes)
 
 ## Demo
