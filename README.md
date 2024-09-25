@@ -18,7 +18,6 @@ My goal is to create a simple, easy to follow explaination of the cards types an
 + As a user, I want to be able to gain a foundation of knowledge to play MTG.
 + As a user, I want to be able to find more information about where and how I can play.
 + As a user, I want access to furthur information if I should choose to.
-+ As a user, I want to be able to contact the creator if I have questions about the site or MTG.
 
 ## Strategy
 The goal is to make a well-functioning, fun webstie that is engaging for the user. The focus was on making the design both user-friendly and creative.
