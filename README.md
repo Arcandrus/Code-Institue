@@ -38,7 +38,7 @@ I wanted to have a consistant appearance across all pages for ease of use. As su
 
 A Wireframe for the website was designed using Balsamiq and was arranged in such a fashion as to keep a consistant feeling and design across all pages.
 
-The Wireframe design can be found (link)here(link) (pdf format).
+The Wireframe design can be found [here](./readme-assests/wireframe.pdf) (pdf format).
 
 ## Surface
 I have chosen a dark background image that features the 5 color types in MTG and used a contrasting background color for my containers to keep the clear and readable. I have used #FFEE99 as my main color of choice as I feel it contrasts well against black, but is easier on the eyes that bright white. I have also chosen Blue and Red as the colors for links, again to contrast them against the #FFEE99 background without being to intrusive to the user.
@@ -97,3 +97,4 @@ The site has been deployed using [GitPages](https://pages.github.com) in the fol
 + Commit 7 : added meta data in the description, keywords and author sections
 + Commit 8 : added comment labels to HTML and CSS to explain structure
 + Commit 9 : changed file structure to standard practice
++ Commit 10 : added readme-assests and wireframe.pdf
