@@ -86,7 +86,7 @@ video {
 }
 
 .wrapper {
-    text-align: justify;
+    text-align: left;
     width: 70%;
     margin-left: 10%;
     margin-right: 10%;
@@ -122,10 +122,6 @@ video {
         margin-left: 10%;
         margin-right: 10%;
         font-size: small;
-    }
-
-    .center {
-        text-align: justify;
     }
 
     table {
