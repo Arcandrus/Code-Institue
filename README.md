@@ -4,18 +4,18 @@
 
 ## Table of Contents
 
-+[Live Demo](#demo)
-+[UX](#ux)
-+[Mission Statement](#mission-statement)
-+[Strategy](#strategy)
-+[Scope](#scope)
-+[Structure](#structure)
-+[Skeleton](#skeleton)
-+[Surface](#surface)
-+[Technologies](#technologies)
-+[Features](#features)
-+[Deployment](#deployment)
-+[Bugs Fixes and Changes](#bug-fixes-and-changes)
++ [Live Demo](#demo)
++ [UX](#ux)
++ [Mission Statement](#mission-statement)
++ [Strategy](#strategy)
++ [Scope](#scope)
++ [Structure](#structure)
++ [Skeleton](#skeleton)
++ [Surface](#surface)
++ [Technologies](#technologies)
++ [Features](#features)
++ [Deployment](#deployment)
++ [Bugs Fixes and Changes](#bug-fixes-and-changes)
 
 ## Demo
 A live demo to the website can be found [here](https://arcandrus.github.io/code-institute/)
