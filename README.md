@@ -77,6 +77,15 @@ There is also a link under the video to the MTG YouTube channel proper if the us
 Using a customized table layout, this page features a display of written explaination and picutres to show each card type and give a summary of how the card works in the game.
 On smaller screens, the picture is replaced with a link to each picture. This was implemented to allow the page to retain readability while still allowing access to a picture example.
 
+## Deployment
+The site has been deployed using [GitPages](https://pages.github.com) in the following way.
++ In the Github repository, the Stetting tab.
++ Under General, navigate to Code and Automation and select 'Pages'.
++ In the Build and Deployment section for Source, select 'Deploy from a branch' from the drop-down list.
++ For Branch, select 'main' from the drop-down list and Save.
++ On the top of the page, the link to the complete website is provided.
++ The deployed site will update automatically upon new commits to the master branch.
+
 ## Bug Fixes and Changes
 
 + Commit 1 : updated background image URL
