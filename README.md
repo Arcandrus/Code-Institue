@@ -99,6 +99,13 @@ The site has been deployed using [GitPages](https://pages.github.com) in the fol
 + On the top of the page, the link to the complete website is provided.
 + The deployed site will update automatically upon new commits to the master branch.
 
+## Validator Testing
+**HTML** No errors when tested using [W3C Validator](./readme-assets/html-pass.png)
+
+**CSS** No errors when tested using [Jigsaw Validator](./readme-assets/css-pass.png)
+
+**Accessibility** Confirmation that my site passed accessibility when tested using [Lighthouse DevTools](./readme-assets/lighthouse-pass.png)
+
 ## Bug Fixes and Changes
 
 + Commit 1 : updated background image URL
