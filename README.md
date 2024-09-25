@@ -38,7 +38,7 @@ I wanted to have a consistant appearance across all pages for ease of use. As su
 
 A Wireframe for the website was designed using Balsamiq and was arranged in such a fashion as to keep a consistant feeling and design across all pages.
 
-The Wireframe design can be found [here](./readme-assests/wireframe.pdf) (pdf format).
+The Wireframe design can be found [here](./readme-assests/mtg-wireframe.pdf) (pdf format).
 
 ## Surface
 I have chosen a dark background image that features the 5 color types in MTG and used a contrasting background color for my containers to keep the clear and readable. I have used #FFEE99 as my main color of choice as I feel it contrasts well against black, but is easier on the eyes that bright white. I have also chosen Blue and Red as the colors for links, again to contrast them against the #FFEE99 background without being to intrusive to the user.
