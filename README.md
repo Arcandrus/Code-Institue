@@ -42,7 +42,9 @@ For the users (people interested in the basics of MTG), I wanted to give them a 
 I felt that there were three key areas I wanted to focus on. They are a little history and explaination of the game, a summary of the rules of the game and an explaination of the various card types in the game. As such, the structure fell rather naturally into three pages.
 
 **Home**: An introduction to the MTG universe.
+
 **Getting Started**: A brief explaination of the basics of the game, including a video link with a tutorial video.
+
 **Card Types Explained**: An overveiw of the different types of cards players can expect to see in the game.
 
 ## Skeleton
@@ -63,7 +65,9 @@ Blue
 
 ## Technologies
 **HTML** - To create a basic site skeleton and add the content.
+
 **CSS** - To create a bold but usable front-end and to give a great user experience
+
 **Balsamiq** - To create a wireframe
 
 # Features
