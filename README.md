@@ -57,11 +57,7 @@ The Wireframe design can be found [here](./readme-assests/mtg-wireframe.pdf) (pd
 ## Surface
 I have chosen a dark background image that features the 5 color types in MTG and used a contrasting background color for my containers to keep the clear and readable. I have used #FFEE99 as my main color of choice as I feel it contrasts well against black, but is easier on the eyes that bright white. I have also chosen Blue and Red as the colors for links, again to contrast them against the #FFEE99 background without being to intrusive to the user.
 
-(Color Pallette Picture)
-#FFEE99
-Black
-Red
-Blue
+![Chosen color palette](./readme-assets/palette.png)
 
 ## Technologies
 **HTML** - To create a basic site skeleton and add the content.
