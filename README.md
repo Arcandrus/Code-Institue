@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-[Live Demo](/redme.md/#demo)
+[Live Demo](#demo)
 
 ## Demo
 A live demo to the website can be found [here](https://arcandrus.github.io/code-institute/)
