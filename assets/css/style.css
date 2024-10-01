@@ -120,7 +120,7 @@ video {
         #E8D9CD
         url("../images/mtg_colors.png")
         no-repeat
-        bottom center / 150px 550px
+        bottom center / auto 50%
         fixed;
         display: grid;
         justify-items: center;
