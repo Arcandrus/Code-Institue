@@ -58,7 +58,7 @@ The Wireframe design can be found [here](./readme-assets/mtg-wireframe.pdf) (pdf
 ## Surface
 Originally I had chosen a dark background image that features the 5 color types in MTG and used a contrasting background color for my containers to keep the clear and readable but ultimately I decided to change the background image as I felt the previous image was a little too busy and could lead to a sensory disparity for the user. As such, I overhauled my chosen colour palette to something softer and I believe it will provide a better user experience. The background image still features each of the 5 Magic: the Gathering colour symbols, but in a much less busy way.
 
-I have used softer earthy tones throughout the website. I feel these colours are calm and not intrusive to the user experience while being consistent and easy to contrast and navigate. I have also set the default font size to 22px as I feel this too will allow for an easier to read experience for the user.
+I have used softer earthy tones throughout the website. I feel these colours are calm and not intrusive to the user experience while being consistent and easy to contrast and navigate and to that end, I have also added a background colour to the nav elements to ensure a clear contrast. I have also set the default font size to 22px as I feel this too will allow for an easier to read experience for the user.
 
 ![Chosen color palette](./readme-assets/palette.png)
 
