@@ -80,6 +80,10 @@ On smaller screens, the Navbar changes from flowing left to right to stacking ve
 
 ![Navbar and Header on smaller screens](./readme-assets/header-small.png)
 
+I've also added a changed display to account for users veiwing the site in a landscape format. This change shrinks the header and moves the nav bar to be in line with the text, allowing the user to more clearly see the content on the page.
+
+![Landscape Display](./readme-assets/landscape-display.png)
+
 The MTG logo is displayed in a fixed position above the main body of each page. This was implemented to give the user a point of reference to outside sources and products bearing the same logo image.
 
 ## Page Features
@@ -105,7 +109,6 @@ Using a customized table layout, this page features a display of written explana
 On smaller screens, the picture is replaced with a link to each picture. This was implemented to allow the page to retain readability while still allowing access to a picture example.
 
 ![Card Types small display](./readme-assets/card-types-small.png)
-
 
 ## Deployment
 The site has been deployed using [GitPages](https://pages.github.com) in the following way.
@@ -140,3 +143,4 @@ I have also asked several users to explore the website on different devices incl
 + Added color palette and header images and corrected some spelling
 + Changes to styling and background image
 + Added more images to readme
++ Added Landscape display changes
