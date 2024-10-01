@@ -97,7 +97,7 @@ video {
 .wrapper {
     font-size: 22px;
     border-radius: 10px;
-    text-align: justify;
+    text-align: left;
     width: 70%;
     margin-left: 10%;
     margin-right: 10%;
@@ -150,7 +150,7 @@ video {
     }
 
     .center {
-        text-align: justify;
+        text-align: center;
     }
 
     table {
