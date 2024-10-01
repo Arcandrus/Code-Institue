@@ -6,7 +6,7 @@ body {
     #E8D9CD
     url("../images/mtg_colors.png")
     no-repeat
-    bottom right / 195px 730px
+    bottom right / auto 80%
     fixed;
     display: grid;
     justify-items: center;
@@ -27,6 +27,7 @@ header {
 
 nav {
     font-size: medium;
+    margin: 1% 0;
 }
 
 nav a {
@@ -141,6 +142,11 @@ video {
         top: 0;
     }
     
+    nav {
+        font-size: medium;
+        margin: 20% 0 5% 0;
+    }
+
     nav a {
         font-size: small;
         width: 80%;
