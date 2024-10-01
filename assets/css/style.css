@@ -120,7 +120,7 @@ video {
         #E8D9CD
         url("../images/mtg_colors.png")
         no-repeat
-        bottom center / auto 60vh
+        bottom center / auto 55vh
         fixed;
         display: grid;
         justify-items: center;
@@ -133,7 +133,7 @@ video {
         text-align: center;
         background-color: #959d90;
         color: #223030;
-        height: 30vh;
+        height: 35vh;
         width: 100%;
         padding: 20px 0;
         position: sticky;
@@ -143,7 +143,6 @@ video {
     nav a {
         width: 80%;
         padding: 10px;
-        margin-bottom: 10px;
         margin-left: auto;
         margin-right: auto;
         display: block;
