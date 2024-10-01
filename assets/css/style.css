@@ -135,7 +135,7 @@ video {
         color: #223030;
         height: 30vh;
         width: 100%;
-        padding: 20px;
+        padding: 20px 0;
         position: sticky;
         top: 0;
     }
