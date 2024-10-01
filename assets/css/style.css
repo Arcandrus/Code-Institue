@@ -5,7 +5,7 @@ body {
     #E8D9CD
     url("../images/mtg_colors.png")
     no-repeat
-    bottom right / 200px 750px
+    bottom right / 180px 700px
     fixed;
     display: grid;
     justify-items: center;
