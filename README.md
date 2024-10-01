@@ -74,9 +74,12 @@ I have used softer earthy tones throughout the website. I feel these colours are
 
 ### Navbar and Header
 ![Navbar and Header](./readme-assets/header.png)
+
 Clear and readable title and Navigation bar. The Navbar is enclosed within the header which is fixed to the top of each page ensuring constant access to all pages of the website.
 On smaller screens, the Navbar changes from flowing left to right to stacking vertically to ensure accessibility on all devices and the title and body text is resized to ensure readability.
+
 ![Navbar and Header on smaller screens](./readme-assets/header-small.png)
+
 The MTG logo is displayed in a fixed position above the main body of each page. This was implemented to give the user a point of reference to outside sources and products bearing the same logo image.
 
 ## Page Features
@@ -84,19 +87,23 @@ The MTG logo is displayed in a fixed position above the main body of each page. 
 ### Home
 There is a brief introduction and explanation of the websites goal and history of MTG.
 There is a link to the Wizards of the Coast Locator service, which can help new players find places to play MTG.
+
 ![Wizards of the Coast Locator Link](./readme-assets/locator.png)
 
 ### Getting Started
 This page features a link to a target="_blank" page that will display a video tutorial from the MTG YouTube channel. I used Controls and Autoplay to make the user experience more fluid.
 There is also a link under the video to the MTG YouTube channel proper if the user is looking for further information not covered in the video.
+
 ![Video Link](./readme-assets/video-link.png)
 ![Video Page](./readme-assets/video.png)
 
 ### Card Types Explained
 Using a customized table layout, this page features a display of written explanation and pictures to show each card type and give a summary of how the card works in the game.
+
 ![Card Types full display](./readme-assets/card-types.png)
 
 On smaller screens, the picture is replaced with a link to each picture. This was implemented to allow the page to retain readability while still allowing access to a picture example.
+
 ![Card Types small display](./readme-assets/card-types-small.png)
 
 
