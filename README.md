@@ -56,9 +56,7 @@ A Wireframe for the website was designed using Balsamiq and was arranged in such
 The Wireframe design can be found [here](./readme-assets/mtg-wireframe.pdf) (pdf format).
 
 ## Surface
-I have chosen a dark background image that features the 5 color types in MTG and used a contrasting background color for my containers to keep the clear and readable. I have used #FFEE99 as my main color of choice as I feel it contrasts well against black, but is easier on the eyes that bright white. I have also chosen Blue and Red as the colors for links, again to contrast them against the #FFEE99 background without being to intrusive to the user.
-
-Ultimately I decided to change the background image as I felt the previous image was a little too busy and could lead to a sensory disparity for the user. As such, I have chosen a dark grey main colour with the background image still featuring each of the 5 Magic: the Gathering colour symbols, but in a much less busy way.
+Originally I had chosen a dark background image that features the 5 color types in MTG and used a contrasting background color for my containers to keep the clear and readable but ultimately I decided to change the background image as I felt the previous image was a little too busy and could lead to a sensory disparity for the user. As such, I have chosen a dark grey main colour with the background image still featuring each of the 5 Magic: the Gathering colour symbols, but in a much less busy way. I have used #FFEE99 as my main color of choice as I feel it contrasts well against black, but is easier on the eyes that bright white. I have also chosen Blue and Red as the colors for links, again to contrast them against the #FFEE99 background without being to intrusive to the user.
 
 ![Chosen color palette](./readme-assets/palette.png)
 
