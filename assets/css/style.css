@@ -115,6 +115,42 @@ video {
 }
 
 /* Media query Styles */
+@media (max-width: 900px) and (orientation:landscape) { 
+    header {
+        display: inline-flex;
+        font-size: medium;
+        text-align: center;
+        background-color: #959d90;
+        color: #223030;
+        height: 5vh;
+        width: 100%;
+        padding: 20px 0;
+        position: sticky;
+        top: 0;
+        justify-content: flex-end;
+        align-items: center;
+    }
+
+    header h1 {
+        font-size: medium;
+    }
+
+    nav {
+        width: 50%;
+        font-size: small;
+        margin: 5%;
+    }
+
+    nav a {
+        font-size: small;
+        width: 80%;
+        padding: 5px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 5px;
+    }
+
+}
 
 @media (max-width: 600px) {
     body {
