@@ -127,15 +127,16 @@ I have also asked several users to explore the website on different devices incl
 
 ## Bug Fixes and Changes
 
-+ Commit 1 : updated background image URL
-+ Commit 2 : fixed broken link on index
-+ Commit 3 : resized logo image
-+ Commit 4 : uploaded video
-+ Commit 5 : added aria labels to the nav content
-+ Commit 6 : reformatted code to minimise empty space
-+ Commit 7 : added meta data in the description, keywords and author sections
-+ Commit 8 : added comment labels to HTML and CSS to explain structure
-+ Commit 9 : changed file structure to standard practice
-+ Commit 10 : added readme-assets and wireframe.pdf
-+ Commit 11 : added color palette and header images and corrected some spelling
-+ Commit 12 : changes to styling and background image
++ Updated background image URL
++ Fixed broken link on index
++ Resized logo image
++ Uploaded video
++ Added aria labels to the nav content
++ Reformatted code to minimise empty space
++ Added meta data in the description, keywords and author sections
++ Added comment labels to HTML and CSS to explain structure
++ Changed file structure to standard practice
++ Added readme-assets and wireframe.pdf
++ Added color palette and header images and corrected some spelling
++ Changes to styling and background image
++ Added more images to readme
