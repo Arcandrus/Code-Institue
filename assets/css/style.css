@@ -88,12 +88,13 @@ video {
 }
 
 .wrapper {
+    font-size: 22px;
     border-radius: 10px;
     text-align: justify;
     width: 70%;
     margin-left: 10%;
     margin-right: 10%;
-    background: rgba(255, 238, 153, 0.8);
+    background: rgba(255, 255, 255, 0.5);
     padding: 30px;
 }
 
