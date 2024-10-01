@@ -109,6 +109,8 @@ The site has been deployed using [GitPages](https://pages.github.com) in the fol
 
 **Accessibility** Confirmation that my site passed accessibility when tested using [Lighthouse DevTools](./readme-assets/lighthouse-pass.png)
 
+I have also asked several users to explore the website on different devices including iPhone 14, iPad, Oppo mobile devices, Sony mobile devices and several different PC and Laptop setups to ensure consitency and usability across multiple platforms.  
+
 ## Bug Fixes and Changes
 
 + Commit 1 : updated background image URL
