@@ -1,6 +1,4 @@
-
 /* Main Body Styles */
-
 body {
     background: 
     #E8D9CD
@@ -53,6 +51,15 @@ a {
 
 a:hover {
     color: #223030;
+}
+
+.active-link {
+    border-radius: 10px;
+    background-color: #E8D9CD;
+    color: #223030;
+    text-decoration: none;
+    padding: 10px 30px;
+    text-transform: uppercase;
 }
 
 tr {
