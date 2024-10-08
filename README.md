@@ -144,3 +144,4 @@ I have also asked several users to explore the website on different devices incl
 + Changes to styling and background image
 + Added more images to readme
 + Added Landscape display changes
++ Added colorization to active links
