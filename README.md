@@ -133,7 +133,7 @@ I have also asked several users to explore the website on different devices incl
 
 [MDN WebDocs](https://developer.mozilla.org/en-US/), [W3Schools](https://www.w3schools.com) and [Stack Overflow](https://stackoverflow.co/teams/) were used to help general understanding and troubleshooting specific problems as I progressed.
 
-I would also like to thank my mentor, Medale Oluwafemi, for his insights and support during this project
+I would also like to thank my mentor, Medale Oluwafemi, for his insights and support during this project and my friends Rew and Emma who have helped me with testing and troubleshooting.
 
 ## Bug Fixes and Changes
 
