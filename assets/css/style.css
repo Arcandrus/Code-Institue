@@ -1,244 +1,262 @@
 /* Main Body Styles */
 body {
-    background: 
-    #E8D9CD
-    url("../images/mtg_colors.png")
-    no-repeat
-    bottom right / auto 80%
-    fixed;
-    display: grid;
-    justify-items: center;
-    font-family: Arial, Helvetica, sans-serif;
-    margin: 0;
+	background:
+		#E8D9CD url("../images/mtg_colors.png") no-repeat center right / auto 80% fixed;
+	font-family: Arial, Helvetica, sans-serif;
+	display: grid;
+	justify-content: center;
+	text-align: center;
+	margin: 0;
 }
 
 header {
-    font-size: x-large;
-    text-align: center;
-    background-color: #959D90;
-    color: #223030;
-    width: 100%;
-    padding: 20px 0;
-    position: sticky;
-    top: 0;
+	font-size: x-large;
+	background-color: #959D90;
+	color: #223030;
+	width: 100%;
+	height: auto;
+	padding: 5px 0;
+	position: sticky;
+	top: 0;
 }
 
+#brand {
+	line-height: 75px;
+	margin: 0 0 0 30px;
+	padding: 0;
+	float: left;
+}
+
+#learn {
+	line-height: 75px;
+	margin: 0 0 0 30px;
+	padding: 0;
+	text-align: center;
+}
+
+footer {
+	font-size: x-large;
+	background-color: #959D90;
+	color: #223030;
+	width: 100%;
+	height: 30px;
+	padding: 5px 0;
+	position: fixed;
+	bottom: 0;
+	line-height: 30px;
+}
+
+footer ul {
+	padding: 0;
+	margin: 0 auto;
+	list-style: none;
+}
+
+footer li {
+	display: inline;
+}
+
+/* Nav Styles */
+
 nav {
-    font-size: medium;
-    margin: 1% 0;
+	float: right;
+	font-size: medium;
+	margin-right: 30px;
 }
 
 nav a {
-    border-radius: 10px;
-    background-color: #414141;
-    color: #E8D9CD;
-    text-decoration: none;
-    padding: 10px 30px;
-    text-transform: uppercase;
+	border-radius: 10px;
+	border: 2px solid #414141;
+	background-color: #414141;
+	color: #E8D9CD;
+	text-decoration: none;
+	padding: 10px 30px;
+	text-transform: uppercase;
+	line-height: 75px;
 }
 
 nav a:hover {
-    border-radius: 10px;
-    background-color: #414141;
-    color: #BBA58F;
+	border-radius: 10px;
+	background-color: #414141;
+	color: #BBA58F;
 }
 
 a {
-    color: #E8D9CD;
-    text-decoration: none;
-    font-weight: bold;
+	color: #E8D9CD;
+	text-decoration: none;
+	font-weight: bold;
 }
 
 a:hover {
-    color: #223030;
+	color: #223030;
 }
 
 .active-link {
-    border-radius: 10px;
-    background-color: #E8D9CD;
-    color: #223030;
-    text-decoration: none;
-    padding: 10px 30px;
-    text-transform: uppercase;
+	border-radius: 10px;
+	background-color: #E8D9CD;
+	color: #223030;
+	text-decoration: none;
+	padding: 10px 30px;
+	text-transform: uppercase;
 }
 
 tr {
-    display: block;
-    padding: 30px;
-}
-
-video {
-    display: flex;
-    margin: 0 auto;
+	display: block;
+	padding: 30px;
 }
 
 /* Class Styles */
 
-.center {
-    text-align: center;
-}
-
 .td-left {
-    width: 30%;
-    vertical-align: middle;
+	width: 30%;
+	vertical-align: middle;
 }
 
 .td-right {
-    width: 60%;
-    vertical-align: top;
-    padding-right: 5%;
+	width: 60%;
+	vertical-align: top;
+	padding-right: 5%;
 }
 
 .td-left img {
-    height: auto;
-    max-width: 80%;
-    display: block;
+	height: auto;
+	max-width: 80%;
+	display: block;
 }
 
-.logo {
-    width: 80%;
-    max-width: 400px;
-    margin-bottom: 30px;
+#logo {
+	width: 80%;
+	max-width: 400px;
+	clear: both;
+	margin: 0 auto;
 }
 
 .article-header {
-    text-align: center;
+	text-align: center;
+	margin: 0;
 }
 
 .wrapper {
-    font-size: 22px;
-    border-radius: 10px;
-    text-align: left;
-    width: 70%;
-    margin-left: 10%;
-    margin-right: 10%;
-    margin-bottom: 60px;
-    background: rgb(149, 157, 144, 0.8);
-    padding: 30px;
+	font-size: 22px;
+	border-radius: 10px;
+	text-align: left;
+	width: 70%;
+	margin: 0 auto 120px auto;
+	background: rgb(149, 157, 144, 0.8);
+	padding: 30px;
 }
 
 .card-link {
-    display: none;
+	display: none;
+}
+
+#video {
+	display: flex;
+	justify-content: center;
+	margin: 0 30px 0 30px;
 }
 
 /* Media query Styles */
-@media (max-width: 1000px) and (orientation:landscape) { 
-    header {
-        display: inline-flex;
-        font-size: medium;
-        text-align: center;
-        background-color: #959d90;
-        color: #223030;
-        height: 5vh;
-        width: 100%;
-        padding: 20px 0;
-        position: sticky;
-        top: 0;
-        justify-content: flex-end;
-        align-items: center;
-    }
+@media (max-width: 950px) {
+	body {
+		background:
+			#E8D9CD url("../images/mtg_colors.png") no-repeat bottom center / auto 80% fixed;
+		display: grid;
+		justify-items: center;
+		font-family: Arial, Helvetica, sans-serif;
+	}
 
-    header h1 {
-        font-size: medium;
-    }
+	h1 {
+		font-size: xx-large;
+	}
 
-    nav {
-        width: 50%;
-        font-size: small;
-        margin: 5%;
-    }
+	nav {
+		margin-right: 30px;
+	}
 
-    nav a {
-        font-size: small;
-        width: 80%;
-        padding: 5px;
-        margin-left: auto;
-        margin-right: auto;
-        margin-bottom: 5px;
-    }
+	nav a {
+		font-size: small;
+	}
+
+	.wrapper {
+		font-size: 18px;
+	}
 
 }
 
-@media (max-width: 600px) {
-    body {
-        background: 
-        #E8D9CD
-        url("../images/mtg_colors.png")
-        no-repeat
-        bottom center / auto 55vh
-        fixed;
-        display: grid;
-        justify-items: center;
-        font-family: Arial, Helvetica, sans-serif;
-        margin: 0;
-    }
+@media (max-width: 700px) {
+	body {
+		background:
+			#E8D9CD url("../images/mtg_colors.png") no-repeat bottom center / auto 55vh fixed;
+		display: grid;
+		justify-items: center;
+		font-family: Arial, Helvetica, sans-serif;
+	}
 
-    header {
-        font-size: medium;
-        text-align: center;
-        background-color: #959d90;
-        color: #223030;
-        height: 35vh;
-        width: 100%;
-        padding: 20px 0;
-        position: sticky;
-        top: 0;
-    }
-    
-    nav {
-        font-size: medium;
-        margin: 20% 0 5% 0;
-    }
+	#brand {
+		clear: both;
+		margin: 0 auto;
+		float: none;
+	}
 
-    nav a {
-        font-size: small;
-        width: 80%;
-        padding: 5px;
-        margin-left: auto;
-        margin-right: auto;
-        margin-bottom: 5px;
-        display: inline-flex;
-        justify-content: flex-end;
-        flex-direction: column;
-        align-items: center;
-    }
+	nav {
+		clear: both;
+		float: none;
+		margin: 0 auto 10px auto;
+	}
 
-    .wrapper {
-        width: 70%;
-        margin-left: 10%;
-        margin-right: 10%;
-        font-size: medium;
-        background: rgb(149, 157, 144, 0.9);
-    }
+	nav a {
+		border-radius: 10px;
+		border: 2px solid #414141;
+		background-color: #414141;
+		color: #E8D9CD;
+		text-decoration: none;
+		padding: 4px 10px;
+		text-transform: uppercase;
+		line-height: 25px;
+		clear: both;
+		font-size: small;
+	}
 
-    .center {
-        text-align: center;
-    }
+	.active-link {
+		padding: 4px 10px;
+	}
 
-    table {
-        display: block;
-    }
+	.wrapper {
+		width: 70%;
+		margin: 0 auto;
+		font-size: medium;
+		background: rgb(149, 157, 144, 0.9);
+	}
 
-    tr {
-        padding: 0;
-    }
+	.center {
+		text-align: center;
+	}
 
-    .td-left {
-        visibility: hidden;
-        width: 0%
-    }
+	table {
+		display: block;
+	}
 
-    .td-right {
-        width: 100%;
-        padding: 0;
-    }
+	tr {
+		padding: 0;
+	}
 
-    .card-link {
-        display: block;
-        visibility: visible;
-    }
+	.td-left {
+		visibility: hidden;
+		width: 0%
+	}
 
-    .card-header {
-        visibility: hidden;
-    }
+	.td-right {
+		width: 100%;
+		padding: 0;
+	}
+
+	.card-link {
+		display: block;
+		visibility: visible;
+	}
+
+	.card-header {
+		visibility: hidden;
+	}
 }
