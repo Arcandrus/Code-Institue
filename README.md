@@ -76,14 +76,14 @@ I have used softer earthy tones throughout the website. I feel these colours are
 ### Navbar and Header
 ![Navbar and Header](./readme-assets/header.png)
 
-Clear and readable title and Navigation bar. The Navbar is enclosed within the header which is fixed to the top of each page ensuring constant access to all pages of the website.
-On smaller screens, the Navbar changes from flowing left to right to stacking vertically to ensure accessibility on all devices and the title and body text is resized to ensure readability.
+Clear and readable title and Navigation bar. The Navbar is enclosed within the header which is fixed to the top of each page ensuring constant access to all pages of the website. There is also a clear colorization to the currently active link ensuring the user can always refer back and know where they are within the site structure.
+On smaller screens, such as tablets, the navbar and header resize to ensure readability amd the navbar repositions itself while maintaining its inline presentation.
 
-![Navbar and Header on smaller screens](./readme-assets/header-small.png)
+![Navbar and Header on smaller displays](./readme-assets/header-small.png)
 
-I've also added a changed display to account for users veiwing the site in a landscape format. This change shrinks the header and moves the nav bar to be in line with the text, allowing the user to more clearly see the content on the page.
+I've added a third display breakpoint to account for users veiwing the site on a much smaller device. This change shrinks the header and moves the nav bar to be underneath the header text, stacking the elements vertically, allowing the user to more clearly see the content on the page.
 
-![Landscape Display](./readme-assets/landscape-display.png)
+![Navbar and Header on smallest display](./readme-assets/header-smallest.png)
 
 The MTG logo is displayed in a fixed position above the main body of each page. This was implemented to give the user a point of reference to outside sources and products bearing the same logo image.
 
@@ -96,8 +96,7 @@ There is a link to the Wizards of the Coast Locator service, which can help new 
 ![Wizards of the Coast Locator Link](./readme-assets/locator.png)
 
 ### Getting Started
-This page features a link to a target="_blank" page that will display a video tutorial from the MTG YouTube channel. I used Controls and Autoplay to make the user experience more fluid.
-There is also a link under the video to the MTG YouTube channel proper if the user is looking for further information not covered in the video.
+This page features a link to a target="_blank" page that will display a video tutorial from the MTG YouTube channel. This was done using hte YouTube embedded iframe, which I styled in CSS to make it fit with my themes.
 
 ![Video Link](./readme-assets/video-link.png)
 ![Video Page](./readme-assets/video.png)
@@ -156,3 +155,4 @@ I would also like to thank my mentor, Medale Oluwafemi, for his insights and sup
 + Major style overhual
 + Added FontAwesome Icon Support
 + Added Credits section to readme
++ Changed and added screenshots and descriptions to show some of the updates
