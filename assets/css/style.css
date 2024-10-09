@@ -260,3 +260,31 @@ tr {
 		visibility: hidden;
 	}
 }
+
+@media (max-width: 400px) {
+	#brand {
+		line-height: 50px;
+	}
+	
+	nav {
+		margin: 0 auto;
+	}
+
+	nav a {
+		display: block;
+		font-size: small;
+		width: 60%;
+		margin: 2px auto 0 auto;
+		padding: 0;
+		line-height: 16px;
+	}
+
+	.active-link {
+		padding: 2px;
+	}
+
+	.wrapper {
+		font-size: 18px;
+	}
+
+}
