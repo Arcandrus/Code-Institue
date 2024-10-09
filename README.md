@@ -16,6 +16,7 @@
 + [Features](#features)
 + [Deployment](#deployment)
 + [Validator Testing](#validator-testing)
++ [Credits](#credits)
 + [Bugs Fixes and Changes](#bug-fixes-and-changes)
 
 ## Demo
@@ -128,6 +129,12 @@ The site has been deployed using [GitPages](https://pages.github.com) in the fol
 
 I have also asked several users to explore the website on different devices including iPhone 14, iPad, Oppo mobile devices, Sony mobile devices and several different PC and Laptop setups to ensure consitency and usability across multiple platforms.  
 
+## Credits
+
+[MDN WebDocs](https://developer.mozilla.org/en-US/), [W3Schools](https://www.w3schools.com) and [Stack Overflow](https://stackoverflow.co/teams/) were used to help general understanding and troubleshooting specific problems as I progressed.
+
+I would also like to thank my mentor, Medale Oluwafemi, for his insights and support during this project
+
 ## Bug Fixes and Changes
 
 + Updated background image URL
@@ -145,3 +152,7 @@ I have also asked several users to explore the website on different devices incl
 + Added more images to readme
 + Added Landscape display changes
 + Added colorization to active links
++ Added Footer including Social Media links
++ Major style overhual
++ Added FontAwesome Icon Support
++ Added Credits section to readme
