@@ -20,6 +20,7 @@
 + [Bugs Fixes and Changes](#bug-fixes-and-changes)
 
 ## Demo
+![](./readme-assets/responsive_ui.png)
 A live demo to the website can be found [here](https://arcandrus.github.io/code-institute-milestone-1/)
 
 ## UX
@@ -156,3 +157,4 @@ I would also like to thank my mentor, Medale Oluwafemi, for his insights and sup
 + Added FontAwesome Icon Support
 + Added Credits section to readme
 + Changed and added screenshots and descriptions to show some of the updates
++ Added responsive UI image
